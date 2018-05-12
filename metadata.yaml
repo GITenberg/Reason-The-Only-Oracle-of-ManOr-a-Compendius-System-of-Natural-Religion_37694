@@ -1,0 +1,27 @@
+_repo: Reason-The-Only-Oracle-of-ManOr-a-Compendius-System-of-Natural-Religion_37694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Ethan
+    birthdate: 1738
+    deathdate: 1789
+    gutenberg_agent_id: '38995'
+    url: http://www.gutenberg.org/2009/agents/38995
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37694'
+  lccn: '48042275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'BL'
+title: Reason, the Only Oracle of Man; Or, A Compendius System of Natural Religion
+url: http://www.gutenberg.org/ebooks/37694
